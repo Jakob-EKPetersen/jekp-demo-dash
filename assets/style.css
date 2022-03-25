@@ -220,7 +220,7 @@ Taken from https://codepen.io/chriddyp/pen/bWLwgP.css
   }
   /* Buttons –––––––––––––––––––––––––––––––––––––––––––––––––– */
   .rc-slider-track{
-    background-color: #007eff
+    background-color: #206cb8
   }
   
   .rc-slider-rail{
@@ -280,7 +280,7 @@ Taken from https://codepen.io/chriddyp/pen/bWLwgP.css
     height: 38px;
     padding: 6px 10px;
    /* The 6px vertically centers text on FF, ignored by Webkit */
-    background-color: #ffffff;
+    background-color: #0f8031;
     border: 1px solid #D1D1D1;
     border-radius: 4px;
     box-shadow: none;
@@ -419,7 +419,7 @@ Taken from https://codepen.io/chriddyp/pen/bWLwgP.css
   }
   
   body {
-    background-color: #0b751c;
+    background-color: rgb(0, 0, 0);
     color: #ffffff;
     height: 100%;
     margin: 0;
@@ -447,7 +447,7 @@ Taken from https://codepen.io/chriddyp/pen/bWLwgP.css
     text-decoration: none;
   }
   .bg-grey{
-    background-color: #ffffff;
+    background-color: #000000;
   }
   .text-padding{
     padding: 5px;
@@ -486,7 +486,7 @@ Taken from https://codepen.io/chriddyp/pen/bWLwgP.css
     padding-bottom: 12px;
   }
   .Select-control, .Select-menu-outer, .Select-multi-value-wrapper, .select-up, .is-open .Select-control {
-    background-color: #ffffff;
+    background-color: #000000;
     color: white;
   
   }
@@ -631,5 +631,5 @@ Taken from https://codepen.io/chriddyp/pen/bWLwgP.css
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #d8d8d870 !important;
+    background: #00000070 !important;
   }
